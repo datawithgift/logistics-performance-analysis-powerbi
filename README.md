@@ -15,16 +15,22 @@ Develop actionable recommendations based on data analysis.
 
 ## Tools Used
 Microsoft Power BI: Data visualization, dashboard development, and performance monitoring.
+
 Power Query: Data cleaning and transformation.
+
 DAX: KPI calculations and analytical measures.
 
 ## Dashboard Pages
 ### Executive Overview
 Provides a high-level summary of business performance, including:
 Total revenue, costs, and profit.
+
 Delivery performance.
+
 Operational cost breakdown.
+
 Top revenue-generating customers.
+
 Monthly revenue trends.
 
 ### Driver Performance
