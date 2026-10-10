@@ -92,6 +92,21 @@ Trucks with the highest fuel costs and utilisation.
 <img width="972" height="557" alt="Fleet Performance dashboard" src="https://github.com/user-attachments/assets/b629aa8f-d8d8-4860-94ec-0cc0e5fa2f8f" />
 
 
+## Interactive Dashboard
+The dashboard contains four report pages:
+
+Executive Overview
+
+Driver Performance
+
+Delivery & Customer Analytics
+
+Fleet Operations
+
+<img width="640" height="336" alt="PoewerbiProjectInteractiveDashboard-ezgif com-speed" src="https://github.com/user-attachments/assets/045361f1-1960-4771-9085-de738fc6e9b3" />
+
+(Users can explore the report using available filters, including year, month, state, driver, customer, and truck manufacturer, depending on the report page.)
+
 ## Key Findings
 The dashboard highlights several areas that deserve management attention:
 
@@ -121,21 +136,6 @@ Monitor customer performance: Evaluate major customers by revenue, profitability
 Optimise fleet utilisation: Compare truck utilisation, maintenance expenditure, and delivery output to identify potential fleet allocation improvements.
 
 Monitor business trends: Track monthly revenue, delivery volumes, and operating costs to support planning and performance management.
-
-## Interactive Dashboard
-The dashboard contains four report pages:
-
-Executive Overview
-
-Driver Performance
-
-Delivery & Customer Analytics
-
-Fleet Operations
-
-<img width="640" height="336" alt="PoewerbiProjectInteractiveDashboard-ezgif com-speed" src="https://github.com/user-attachments/assets/045361f1-1960-4771-9085-de738fc6e9b3" />
-
-(Users can explore the report using available filters, including year, month, state, driver, customer, and truck manufacturer, depending on the report page.)
 
 ## Conclusion
 This project demonstrates how Power BI can be used to bring financial, customer, delivery, driver, and fleet data together in an interactive reporting environment.
