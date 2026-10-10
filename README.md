@@ -7,10 +7,15 @@ The goal is to transform logistics data into meaningful insights that can help m
 
 ## Project Objectives
 Monitor key logistics and financial performance indicators.
+
 Identify trends in revenue, deliveries, and operating costs.
+
 Examine driver productivity and safety performance.
+
 Understand customer revenue contributions.
+
 Evaluate fleet utilisation and fuel efficiency.
+
 Develop actionable recommendations based on data analysis.
 
 ## Tools Used
