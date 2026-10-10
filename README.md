@@ -133,6 +133,8 @@ Delivery & Customer Analytics
 
 Fleet Operations
 
+<img width="640" height="336" alt="PoewerbiProjectInteractiveDashboard-ezgif com-speed" src="https://github.com/user-attachments/assets/045361f1-1960-4771-9085-de738fc6e9b3" />
+
 (Users can explore the report using available filters, including year, month, state, driver, customer, and truck manufacturer, depending on the report page.)
 
 ## Conclusion
