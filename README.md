@@ -39,6 +39,9 @@ Top revenue-generating customers.
 
 Monthly revenue trends.
 
+<img width="953" height="556" alt="Executive Overview" src="https://github.com/user-attachments/assets/20fe7c5e-f61c-49de-b794-04b6d5b297fa" />
+
+
 ### Driver Performance
 Examines driver productivity and safety through:
 
@@ -52,6 +55,9 @@ Driver rankings by completed trips.
 
 Incident distribution across drivers.
 
+<img width="965" height="559" alt="Driver Performance Dashboard" src="https://github.com/user-attachments/assets/82eaad39-e9f5-41bf-85e5-0439fdc4fcc0" />
+
+
 ### Delivery & Customer Analytics
 Analyzes delivery operations and customer contributions, including:
 
@@ -64,6 +70,9 @@ Top customers by revenue.
 Monthly delivery trends.
 
 Delivery activity by destination city.
+
+<img width="973" height="556" alt="Customer analytics dashboard" src="https://github.com/user-attachments/assets/c003e34d-5b81-40f3-b0d4-319547ab005e" />
+
 
 ### Fleet Operations
 Evaluates fleet performance and operating costs through:
@@ -79,6 +88,9 @@ Truck utilisation.
 Monthly fuel cost and distance trends.
 
 Trucks with the highest fuel costs and utilisation.
+
+<img width="972" height="557" alt="Fleet Performance dashboard" src="https://github.com/user-attachments/assets/b629aa8f-d8d8-4860-94ec-0cc0e5fa2f8f" />
+
 
 ## Key Findings
 The dashboard highlights several areas that deserve management attention:
