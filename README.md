@@ -41,10 +41,15 @@ Monthly revenue trends.
 
 ### Driver Performance
 Examines driver productivity and safety through:
+
 Total drivers and completed trips.
+
 Average trip duration.
+
 Monthly safety incident trends.
+
 Driver rankings by completed trips.
+
 Incident distribution across drivers.
 
 ### Delivery & Customer Analytics
